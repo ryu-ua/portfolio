@@ -1,12 +1,8 @@
-**補足：具体例として講師の実際の情報を掲載している項目もありますが、飽くまでサンプルなので実際の保有資格や経歴を掲載したものでありません。**
-
----
-
 # Portfolio
 
-- デジタルアーツ太郎
-- 連絡先 Twitter [@am1tanaka](https://twitter.com/am1tanaka) / Email [a@a.a](mailto:a@a.a)
-- 専門学校デジタルアーツ東京 ゲームプログラムコース 202x年卒業予定
+- 荒川　龍
+- 連絡先 Twitter [@double_dg] / Email [ryuryu3221@gmail.com](mailto:ryuryu3221@gmail.com)
+- 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 ## 資格
 - ITパスポート試験合格
