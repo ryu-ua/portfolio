@@ -4,7 +4,8 @@
 - 連絡先 Twitter Twitter [@rind0ra](https://twitter.com/rind0ra)/ Email [ryu.dat2204@gmail.com](mailto:ryu.dat2204@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
-
+## 資格
+- 英検2級
 
 ## スキル
 C#
