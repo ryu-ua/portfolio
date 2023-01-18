@@ -1,7 +1,7 @@
 # Portfolio
 
 - 荒川　龍
-- 連絡先 Twitter [@double_dg] / Email [ryuryu3221@gmail.com](mailto:ryuryu3221@gmail.com)
+- 連絡先 Twitter Twitter [@rind0ra](https://twitter.com/rind0ra)/ Email [ryuryu3221@gmail.com](mailto:ryuryu3221@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 ## 資格
