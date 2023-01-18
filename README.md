@@ -8,7 +8,18 @@
 -
 
 ## スキル
-- 
+- C#
+
+利用歴1年
+Visual Studioで独自のツールの作成が可能
+
+Unity
+ - 利用歴1年
+  - オリジナルの個人/チーム作品の開発経験あり
+
+C/C++
+ - 利用歴1年
+  - コンソールで簡単なデータ処理プログラムを開発
 
 ## 取り組んでいるテーマ
 1. オリジナルゲーム開発
@@ -27,6 +38,5 @@
 
 
 ## 連絡先
-- ブログ [tanaka's Programming Memo](https://am1tanaka.hatenablog.com/)
-- Twitter [@am1tanaka](https://twitter.com/am1tanaka)
-- E-mail [a@a.a](mailto:a@a.a)
+- Twitter [@rind0ra](https://twitter.com/rind0ra)
+- E-mail [ryu.dat2204@gmail.com](mailto:ryu.dat2204@gmail.com)
