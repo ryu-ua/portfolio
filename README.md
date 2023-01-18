@@ -5,67 +5,24 @@
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 ## 資格
-- ITパスポート試験合格
-- 基本情報処理技術者試験合格
+-
 
 ## スキル
-- C#
-  - 利用歴〇年
-  - Visual Studioで独自のツールの作成が可能
-- Unity
-  - 利用歴〇年
-  - オリジナルの個人/チーム作品の開発経験あり
-- C/C++
-  - 利用歴〇年
-  - コンソールで簡単なデータ処理プログラムを開発
-- cluster
-  - 利用歴1年
-  - ワールド、ギミックの作成
+- 
 
 ## 取り組んでいるテーマ
 1. オリジナルゲーム開発
 1. オブジェクト指向のポリモーフィズムの活用事例の制作
-  - [コースが変化する双六ゲーム　ラビすご](https://github.com/am1tanaka/LabySugo2020LTS)
-3. 基本情報処理の内容を活用するゲーム制作事例の調査
+  
 4. 基本情報処理に関連する数学やアルゴリズムの仕組みを試せるアプリの開発
 
 ## 作品リスト
 
-### Wall Walker
-[<img src="images/wallwalker.png" alt="Wall Walker" style="height: 360px">](https://am1tanaka.itch.io/wall-walker)
+### SPACE RUN
 
-[Wall Walker](https://am1tanaka.itch.io/wall-walker)
+![スクリーンショット](img01.png)
+ロケットを操作して宇宙空間をどこまでいけるか飛び続けるゲーム
 
-壁に向かって歩くと部屋が回転する。箱に押しつぶされたりトゲにぶつからないように鍵を手に入れてゴールを目指すパズルゲーム。
-
-- 開発環境：Unity
-- 開発期間：2日
-- [Kenney Jam 2021](https://itch.io/jam/kenney-jam-2021)参加作品
-  - [5位](https://itch.io/jam/kenney-jam-2021/results)
-
-### 正箱
-[<img src="images/icon_shobako.gif" alt="正箱" style="height: 360px">](https://unityroom.com/games/shobako)
-
-[正箱-ShoBako-](https://unityroom.com/games/shobako)
-
-「正」の字を左右に回転させて、迫ってくる部屋の壁の隙間を潜り抜けるアクションゲームです。
-
-- 開発環境：Unity
-- 開発期間：2週間半
-- 1週間ゲームジャム「正」参加作品
-  - 最高順位　総合40位 / サウンド21位 / 操作性18位
-
-SPACE RUN
-  ロケットを操作してどこまでいけるか限界を試すゲーム
-
-
-[<img src="images/gettheshipback.png" alt="Get The Ship Back！" style="height: 360px">](https://play.unity.com/mg/lego/builds-ln-1)
-
-[Get The Ship Back!](https://play.unity.com/mg/lego/builds-ln-1)
-
-- 開発環境：Unity + LEGO Microgame
-- 開発期間：3週間
-- LEGO Microgame My First Game Jam 参加作品
 
 
 ## 連絡先
