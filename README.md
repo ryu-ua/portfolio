@@ -8,14 +8,13 @@
 - 英検2級
 
 ## 取り組んでいるテーマ
-1. ウディタを用いたオリジナルゲーム開発
-1. SPACE RUNの要素の追加
+1. ウディタを用いたオリジナルゲーム制作
+1. 
 
 
 ## スキル
 C#
  - 利用歴1年
-  - Visual Studioで独自のツールの作成が可能
 
 Unity
  - 利用歴1年
@@ -23,7 +22,7 @@ Unity
 
 C/C++
  - 利用歴1年
-  - コンソールで簡単なデータ処理プログラムを開発
+  
 
 ## 作品リスト
 
@@ -32,9 +31,12 @@ C/C++
 ![スクリーンショット](img01.png)
 
 ロケットを操作して宇宙空間をどこまでいけるか飛び続けるゲーム
+- 開発環境：Unity
+- 制作期間：3日
 
 
 
 ## 連絡先
+- ブログ　[Qiita ryu-ua](https://qiita.com/ryu-ua) 
 - Twitter [@rind0ra](https://twitter.com/rind0ra)
 - E-mail [ryu.dat2204@gmail.com](mailto:ryu.dat2204@gmail.com)
