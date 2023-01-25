@@ -37,6 +37,6 @@ C/C++
 
 
 ## 連絡先
-- ブログ　[Qiita ryu-ua](https://qiita.com/ryu-ua) 
-- Twitter [@rind0ra](https://twitter.com/rind0ra)
-- E-mail [ryu.dat2204@gmail.com](mailto:ryu.dat2204@gmail.com)
+- ブログ(Qitta)：[ryu-ua](https://qiita.com/ryu-ua) 
+- Twitter ：[@rind0ra](https://twitter.com/rind0ra)
+- E-mail ：[ryu.dat2204@gmail.com](mailto:ryu.dat2204@gmail.com)
